@@ -1,0 +1,6 @@
+env.txt
+.env
+wallet_data.txt
+.vscode
+#Python Virtual Environment
+twitter/
